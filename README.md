@@ -3,7 +3,7 @@
 Overview of code generated during SWD6 June 2023 course:
 
 - [Notebook](swd6_2023.ipynb)
-- [Dask-report](dask-report.html)
+- [Dask-report](https://raw.githack.com/ARCTraining/swd6-06-2023/main/dask-report.html)
 - [Dask-image](mydask.png)
 
 Please find associated resources from the course below:
